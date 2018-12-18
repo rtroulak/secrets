@@ -1,0 +1,3 @@
+[submodule "hugo-remark-minion"]
+	path = hugo-remark-minion
+	url = https://github.com/eueung/hugo-remark-minion

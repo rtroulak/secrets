@@ -1,0 +1,4 @@
+baseURL = "https://secretcatatisstellas.org/"
+languageCode = "en-us"
+title = "Secret Santa tis Stellas"
+theme = "hugo-remark-minion"
